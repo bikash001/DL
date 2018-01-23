@@ -1,4 +1,6 @@
-.out
-.log
+*.out
+*.log
 TheoryAssignment*.pdf
-.aux
+*.aux
+*.zip
+*.gz
